@@ -3,8 +3,8 @@
 ## Introduction
 EDA and Data preparation are handled in a local notebook file, but the model analysis is done in a Google Colab notebook:
 
-[EDA and Data Preparation](src/hotel-booking-cancellations.ipynb)
-[Model Building and Analysis](https://colab.research.google.com/drive/15ZaPohqmvR2tk3uvB2OW6NwEVyM9blpW?usp=sharing)
+* [EDA and Data Preparation](src/hotel-booking-cancellations.ipynb)
+* [Model Building and Analysis](https://colab.research.google.com/drive/15ZaPohqmvR2tk3uvB2OW6NwEVyM9blpW?usp=sharing)
 
 ### 1. Research Question
 
